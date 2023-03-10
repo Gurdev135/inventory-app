@@ -11,4 +11,13 @@
   border-radius: 8px;
   margin-top: 17px;
 }
-.Adjust{margin-top: 20%;margin-left: 18px;}
+.Adjust{margin-top: 17%;margin-left: 18px;}
+.popup{border: 1px solid black;
+  display: inline-block;
+  width: 650px;
+  height: 600px;
+  padding: 2px;
+}
+.Bt2{border: 1px solid;}
+.holder1{width: 100px;display: inline-block;}
+.holder2{width: 500px;display: inline-block;vertical-align: top;margin-top: -90px;margin-left: 323px;}
